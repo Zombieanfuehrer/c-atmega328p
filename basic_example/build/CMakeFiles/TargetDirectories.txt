@@ -1,0 +1,7 @@
+C:/Projekte/Microcontroller C/dev_AtmelMega328P/CMake-avr-example/basic_example/build/CMakeFiles/flash.dir
+C:/Projekte/Microcontroller C/dev_AtmelMega328P/CMake-avr-example/basic_example/build/CMakeFiles/eeprom.dir
+C:/Projekte/Microcontroller C/dev_AtmelMega328P/CMake-avr-example/basic_example/build/CMakeFiles/strip.dir
+C:/Projekte/Microcontroller C/dev_AtmelMega328P/CMake-avr-example/basic_example/build/CMakeFiles/Inter.dir
+C:/Projekte/Microcontroller C/dev_AtmelMega328P/CMake-avr-example/basic_example/build/CMakeFiles/hex.dir
+C:/Projekte/Microcontroller C/dev_AtmelMega328P/CMake-avr-example/basic_example/build/CMakeFiles/edit_cache.dir
+C:/Projekte/Microcontroller C/dev_AtmelMega328P/CMake-avr-example/basic_example/build/CMakeFiles/rebuild_cache.dir

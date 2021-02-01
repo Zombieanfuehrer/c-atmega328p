@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Projekte/Microcontroller C/dev_AtmelMega328P/CMake-avr-example/basic_example/src/main.c
+avr/io.h
+-
+avr/interrupt.h
+-
+stdbool.h
+-
+
